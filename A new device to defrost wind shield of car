@@ -1,0 +1,15 @@
+Traditionally, air condition is used to defrost wind shield in combination of heater in a car.
+
+However, it takes a lot of time to warm up engine and to reduce moisture in the air when you cold start, in order to completely clear all fogging area. Even for the wind shield, areas far from outlet of air condition get less effect of defrost, or even not working.
+
+Another deficiency is that it takes quite amount of engine power to run air condition. Therefore reduces power to drive, especially for smaller cars. And it consumes more gas.
+
+The defrost heater used in back side glass in the car, comprised of metal wire heater to heat up glass directly, is more reliable and energy-efficient. It takes effect immediately. It consumes less power, and is not directly driven by engine. Therefore it will not reduce engine power.
+
+However, the defrost heater is not good for wind shield, because it is an obstacle to driver's sight. Jaguar and other car companies had tried to implement it into wind shield defrost by reducing the line width of metal wires, so that they won't obstruct driver's sight. Nevertheless they suffer early malfunction because those thin wire are prone to break under heat.
+
+A new way to eliminate the cons of thin metal wire is to use ITO film to replace the thin metal wire. Use an ITO film to cover the entire glass instead thin wires can result a durable structure, because current is dispersed all over, not limited in thin metal wires which creates hot spots.
+
+Another benefit of ITO film is that it takes effect more faster than metal wire heater. Metal wire heater still needs some time to disperse heat and to heat up entire surface of glass. In the other hand, since ITO film covers entire surface of glass, it immediately removes moisture.
+
+The sheet resistance of ITO film can be specified for best result of defrost. Generally speaking, lower sheet resistance results in higher power and faster effect for defrost. However, the power is limited to the alternator of the car and the limitation of wiring. Higher power takes effect faster in cold start, but will spend more power than need later. Therefore, a high-or-low power selector or an automatic regulator could be implemented to save electricity.
